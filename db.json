@@ -1,0 +1,25 @@
+{
+    "users": [
+        {
+          "id": 1,
+          "firstname": "Sylvain",
+          "lastname": "Coutrot",
+          "email": "sylvain.coutrot@ghotmail.fr",
+          "password": "azertyuiop"
+        },
+        {
+          "id": 2,
+          "firstname": "Arthur",
+          "lastname": "Liège",
+          "email": "arthur.liege@ghotmail.fr",
+          "password": "azertyuiop"
+        },
+        {
+          "id": 3,
+          "firstname": "Jonathan",
+          "lastname": "Rakotonirina",
+          "email": "jonathan.rakotonirina@ghotmail.fr",
+          "password": "azertyuiop"
+        }
+    ]
+}
